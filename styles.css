@@ -290,3 +290,7 @@ form button {
     background-color: #131331af;
     flex-wrap: wrap;
 }
+
+.content3 {
+    flex-wrap: wrap;
+}
