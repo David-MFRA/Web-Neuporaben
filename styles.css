@@ -179,14 +179,13 @@ h3 {
     font-size: 36px;
     font-weight:lighter;
     font-style: italic;
-    color:#080b0f;
     text-shadow: 0 0 5px white,
                  0 0 15px white,
                  0 0 30px white;
 }
 
 .quote p{
-    mix-blend-mode:luminosity;
+    text-align: left;
 }
 
 .intro-text p {
